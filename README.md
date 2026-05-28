@@ -1,1 +1,3 @@
 # IMC.PYTHON
+## sobre o projeto...
+O projeto mostra o IMC com base na altura e no peso
